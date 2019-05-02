@@ -1,5 +1,5 @@
 ######################################################################################################
-### Example of WQS with Repeated Holdout Validation for 26 EDCs & IQ in SELMA ###
+### Example of WQS with Repeated Holdout Validation for 26 EDCs & IQ in SELMA Study ###
 ######################################################################################################
 
 #load required packages
@@ -23,7 +23,7 @@ set.seed(213684854)
 
 ######################################################################################################
 #Repeated Holdout
-###use lapply function to repeat gWQS desired #times
+###use lapply function to repeat gWQS M times
 ######################################################################################################
 IQ_rep = lapply(1:100,function(i){
   gwqs(IQ ~ mom_edu + mom_IQ + mom_smoke_3 + mom_weight + birth_week + Male,
@@ -34,7 +34,7 @@ IQ_rep = lapply(1:100,function(i){
 
 ######################################################################################################
 #Organize Repeated holdout Validation Results
-###Create a compile function to compile wqs-index estimate and weight results from N repetitions  
+###Create a compile function to compile wqs-index estimate and weight results from M repetitions  
 ######################################################################################################
 
 f_compile <- function(gWQSresult){ #gWQSresult = gWQS results name for repeated holdout (a list)

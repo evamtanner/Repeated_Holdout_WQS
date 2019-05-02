@@ -7,5 +7,8 @@
 * R version 3.5.1 or greater
 * Packages: gWQS, purrr, broom, matrixStats, plyr, xlsx
 
-Licensed under the [MIT License](LICENSE).
 
+
+[![DOI](https://zenodo.org/badge/183286526.svg)](https://zenodo.org/badge/latestdoi/183286526)
+
+Licensed under the [MIT License](LICENSE).

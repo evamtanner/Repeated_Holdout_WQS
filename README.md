@@ -4,8 +4,11 @@
 * Repeated holdout validation solves this problem by partitioning data m times (>=100) to simulate a distribution of validated results.
 
 ## Software Requirements
+### Repeated Holdout WQS:
 * R version 3.5.1 or greater
 * Packages: gWQS, purrr, broom, matrixStats, plyr, xlsx
+### Weight Uncertainty Plot
+* SAS 9.4 (14.3)
 
 
 

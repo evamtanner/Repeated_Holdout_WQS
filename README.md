@@ -11,14 +11,14 @@
 * SAS 9.4 (14.3)
 
 ## Authors
-Eva M Tanner & Chris Gennings, Icahn School of Medicine at Mount Sinai
+Eva M Tanner & Chris Gennings, Icahn School of Medicine at Mount Sinai, New York, USA
 
 [![DOI](https://zenodo.org/badge/183286526.svg)](https://zenodo.org/badge/latestdoi/183286526)
 
 ### Collaborators
-* Carl-Gustaf Bornehag, Karlstad University
+* Carl-Gustaf Bornehag, Karlstad University, Karlstad, Sweden
 
 ### Acknowledgement of Genius R Skills
-* Jonathan Heiss & Anu Joshi, Icahn School of Medicine at Mount Sinai
+* Jonathan Heiss & Anu Joshi, Icahn School of Medicine at Mount Sinai, New York, USA
 
 Licensed under the [MIT License](LICENSE).

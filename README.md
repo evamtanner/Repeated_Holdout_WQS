@@ -12,6 +12,7 @@
 
 ## Authors
 Eva M Tanner & Chris Gennings, Icahn School of Medicine at Mount Sinai
+
 [![DOI](https://zenodo.org/badge/183286526.svg)](https://zenodo.org/badge/latestdoi/183286526)
 
 ### Collaborators

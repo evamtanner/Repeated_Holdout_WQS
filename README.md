@@ -12,7 +12,12 @@
 
 ## Authors
 Eva M Tanner & Chris Gennings, Icahn School of Medicine at Mount Sinai
-
 [![DOI](https://zenodo.org/badge/183286526.svg)](https://zenodo.org/badge/latestdoi/183286526)
+
+### Collaborators
+* Carl-Gustaf Bornehag, Karlstad University
+
+### Acknowledgement of Genius R Skills
+* Jonathan Heiss & Anu Joshi, Icahn School of Medicine at Mount Sinai
 
 Licensed under the [MIT License](LICENSE).

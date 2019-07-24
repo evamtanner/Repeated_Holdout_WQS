@@ -2,6 +2,10 @@
 * Weighted Quantile Sum (WQS) regression is a method used to examine chemical mixtures in relation to a health outcome of interest. 
 * Data is typically randomly partitioned into a single training set for estimating weights, and a single test set for assessing the association between between the weighted index and the outcome. However, this may produce unstable estimates in finite samples.
 * Repeated holdout validation solves this problem by partitioning data m times (>=100) to simulate a distribution of validated results.
+* Files: 
+** Repeated Holdout Validation for WQS.R - Implement & compile repeated holdout WQS results and compare to no validation
+** Weight Uncertainty Plot.sas - Visualize uncertainty in identifying chemicals of concern
+** WQS with IPWs & Repeated Holdout.R - Edited gwqs function to incorporate inverse probability weights
 
 ## Software Requirements
 ### Repeated Holdout WQS:

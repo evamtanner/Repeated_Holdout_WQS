@@ -26,4 +26,6 @@ Eva M Tanner & Chris Gennings, Icahn School of Medicine at Mount Sinai, New York
 ### Acknowledgement of Genius R Skills
 * Jonathan Heiss & Anu Joshi, Icahn School of Medicine at Mount Sinai, New York, USA
 
+[The SELMA Study](http://selmastudien.se/)
+
 Licensed under the [MIT License](LICENSE).

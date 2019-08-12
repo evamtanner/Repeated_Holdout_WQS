@@ -8,6 +8,8 @@
 * Weight Uncertainty Plot.sas - Visualize uncertainty in identifying chemicals of concern SAS code
 * WQS with IPWs & Repeated Holdout.R - Edited gwqs function to incorporate inverse probability weights R code
 
+* Check back soon for the accompanying manuscript!
+
 ## Software Requirements
 ### Repeated Holdout WQS:
 * R version 3.5.1 or greater

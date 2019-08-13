@@ -7,7 +7,8 @@
 * Repeated Holdout Validation for WQS.R - Implement & compile repeated holdout WQS results and compare to no validation R code
 * Weight Uncertainty Plot.sas - Visualize uncertainty in identifying chemicals of concern SAS code
 * WQS with IPWs & Repeated Holdout.R - Edited gwqs function to incorporate inverse probability weights R code
-
+* ISEE 2019 Preconference Workshop Tutorial
+* Simulated SELMA data for the ISEE 2019 Preconference Workshop
 * Check back soon for the accompanying manuscript!
 
 ## Software Requirements

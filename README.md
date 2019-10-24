@@ -9,7 +9,6 @@
 * WQS with IPWs & Repeated Holdout.R - Edited gwqs function to incorporate inverse probability weights R code
 * ISEE 2019 Preconference Workshop Tutorial
 * Simulated SELMA data for the ISEE 2019 Preconference Workshop
-* Check back soon for the accompanying manuscript!
 
 ## Software Requirements
 ### Repeated Holdout WQS:
@@ -28,6 +27,8 @@ Eva M Tanner & Chris Gennings, Icahn School of Medicine at Mount Sinai, New York
 
 ### Acknowledgement of Genius R Skills
 * Jonathan Heiss & Anu Joshi, Icahn School of Medicine at Mount Sinai, New York, USA
+
+[Early prenatal exposure to suspected endocrine disruptor mixtures is associated with lower IQ at age seven](https://doi.org/10.1016/j.envint.2019.105185)
 
 [The SELMA Study](http://selmastudien.se/)
 

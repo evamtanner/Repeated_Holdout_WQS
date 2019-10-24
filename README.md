@@ -28,6 +28,8 @@ Eva M Tanner & Chris Gennings, Icahn School of Medicine at Mount Sinai, New York
 ### Acknowledgement of Genius R Skills
 * Jonathan Heiss & Anu Joshi, Icahn School of Medicine at Mount Sinai, New York, USA
 
+### Article & Study Links
+
 [Early prenatal exposure to suspected endocrine disruptor mixtures is associated with lower IQ at age seven](https://doi.org/10.1016/j.envint.2019.105185)
 
 [The SELMA Study](http://selmastudien.se/)

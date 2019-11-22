@@ -32,6 +32,9 @@ Eva M Tanner & Chris Gennings, Icahn School of Medicine at Mount Sinai, New York
 
 [Early prenatal exposure to suspected endocrine disruptor mixtures is associated with lower IQ at age seven](https://doi.org/10.1016/j.envint.2019.105185)
 
+[Repeated Holdout Validation for Weighted Quantile Sum Regression]
+(https://doi.org/10.1016/j.mex.2019.11.008)
+
 [The SELMA Study](http://selmastudien.se/)
 
 Licensed under the [MIT License](LICENSE).

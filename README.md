@@ -3,6 +3,8 @@
 * Data is typically randomly partitioned into a single training set for estimating weights, and a single test set for assessing the association between between the weighted index and the outcome. However, this may produce unstable estimates in finite samples.
 * Repeated holdout validation solves this problem by partitioning data m times (>=100) to simulate a distribution of validated results.
 
+![Graphical Abstract](https://ars.els-cdn.com/content/image/1-s2.0-S2215016119303103-ga1_lrg.jpg)
+
 ## Files 
 * Repeated Holdout Validation for WQS.R - Implement & compile repeated holdout WQS results and compare to no validation R code
 * Weight Uncertainty Plot.sas - Visualize uncertainty in identifying chemicals of concern SAS code
